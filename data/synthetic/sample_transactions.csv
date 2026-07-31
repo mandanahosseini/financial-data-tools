@@ -1,0 +1,21 @@
+transaction_id,date,customer,category,amount,currency,status
+TRX-00001,2024-09-25,Cole-Jennings,Purchase,478234.31,IRR,Paid
+TRX-00002,2025-11-19,Mcfarland-Tucker,Sales,457359.91,IRR,Pending
+TRX-00003,2025-01-22,"Johnson, Williams and Navarro",Sales,54930.35,IRR,Cancelled
+TRX-00004,2025-09-20,"Lyons, Chandler and Newman",Service,275513.5,IRR,Paid
+TRX-00005,2026-03-19,Young PLC,Purchase,190862.02,IRR,Pending
+TRX-00006,2025-06-16,"Hardin, Mitchell and Cuevas",Service,295020.49,IRR,Paid
+TRX-00007,2025-10-02,"Turner, Harvey and Rice",Sales,81706.75,IRR,Cancelled
+TRX-00008,2025-02-20,Phillips-Gutierrez,Purchase,224386.03,IRR,Pending
+TRX-00009,2025-08-29,Lee and Sons,Purchase,264463.41,IRR,Pending
+TRX-00010,2025-06-17,Melendez PLC,Service,54087.7,IRR,Cancelled
+TRX-00011,2026-01-10,"Johnson, Carrillo and Patterson",Purchase,355491.77,IRR,Pending
+TRX-00012,2024-10-02,Freeman Ltd,Purchase,332753.43,IRR,Pending
+TRX-00013,2026-06-05,Lawson Inc,Expense,381646.12,IRR,Pending
+TRX-00014,2024-09-07,"West, Fields and Evans",Purchase,400502.3,IRR,Cancelled
+TRX-00015,2026-07-05,Browning PLC,Sales,433470.06,IRR,Cancelled
+TRX-00016,2026-06-19,"Cox, Cameron and Thompson",Purchase,494994.25,IRR,Cancelled
+TRX-00017,2024-09-16,"Montoya, Campos and Mendoza",Sales,345996.74,IRR,Pending
+TRX-00018,2026-05-09,Santiago-Gray,Expense,472076.14,IRR,Pending
+TRX-00019,2025-04-13,Nelson PLC,Purchase,248350.13,IRR,Paid
+TRX-00020,2025-11-28,"Bell, Gross and Lewis",Purchase,340152.87,IRR,Cancelled
