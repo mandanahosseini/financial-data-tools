@@ -5,12 +5,19 @@ from .schemas import (
     AnswerResponse
 )
 
+from financial_tools.services.assistant_service import (
+    AssistantService
+)
+
 
 app = FastAPI(
     title="Financial AI Assistant API",
-    description="RAG based financial assistant",
     version="1.0"
 )
+
+
+assistant_service = AssistantService()
+
 
 
 @app.get("/")
@@ -31,11 +38,8 @@ def ask_question(
     request: QuestionRequest
 ):
 
-    # Later connected to real RAG pipeline
-
-    answer = (
-        "Received question: "
-        + request.question
+    answer = assistant_service.ask(
+        request.question
     )
 
     return AnswerResponse(
