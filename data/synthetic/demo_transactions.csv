@@ -1,0 +1,101 @@
+transaction_id,date,customer,category,amount,currency,status
+TRX-00001,2026-02-08,"Pena, Washington and Bell",Purchase,41193.08,IRR,Pending
+TRX-00002,2026-05-26,"Daniels, Lee and Mcfarland",Purchase,326214.93,IRR,Pending
+TRX-00003,2025-07-18,Pugh Group,Expense,346006.95,IRR,Paid
+TRX-00004,2026-03-01,Horn-Jackson,Sales,86996.4,IRR,Cancelled
+TRX-00005,2026-02-12,Shepard-Allen,Service,446040.9,IRR,Pending
+TRX-00006,2026-05-25,"Hammond, Bishop and Garrett",Purchase,418057.52,IRR,Pending
+TRX-00007,2026-03-07,Washington-Thomas,Expense,233203.11,IRR,Cancelled
+TRX-00008,2026-06-24,Silva Group,Expense,187924.43,IRR,Paid
+TRX-00009,2024-12-20,Ingram Ltd,Expense,270218.45,IRR,Paid
+TRX-00010,2025-04-16,Delgado-Lopez,Purchase,439927.43,IRR,Pending
+TRX-00011,2024-10-23,"Ferguson, Davis and Clark",Service,335852.56,IRR,Paid
+TRX-00012,2024-12-11,"Lee, Bell and Gonzalez",Purchase,64406.09,IRR,Paid
+TRX-00013,2026-07-20,"Baird, Stevens and Hamilton",Service,379529.48,IRR,Pending
+TRX-00014,2025-02-03,Young LLC,Expense,87343.8,IRR,Pending
+TRX-00015,2026-04-07,Henry-Wood,Purchase,89759.31,IRR,Pending
+TRX-00016,2026-06-10,Clark-Harris,Service,9673.16,IRR,Cancelled
+TRX-00017,2025-10-09,"Parker, Patrick and Hamilton",Service,44388.74,IRR,Paid
+TRX-00018,2025-01-30,"Johnson, Woods and Alexander",Expense,261154.93,IRR,Pending
+TRX-00019,2024-08-31,Meyer Ltd,Purchase,82004.95,IRR,Cancelled
+TRX-00020,2025-11-09,Rodriguez Inc,Expense,251503.4,IRR,Pending
+TRX-00021,2024-10-07,"Tran, Cunningham and Woodward",Sales,119128.9,IRR,Cancelled
+TRX-00022,2024-09-24,Roth-Doyle,Service,389551.96,IRR,Cancelled
+TRX-00023,2025-12-10,Anderson and Sons,Service,480168.3,IRR,Pending
+TRX-00024,2026-02-28,Gibson Group,Service,114410.54,IRR,Pending
+TRX-00025,2025-02-18,Shah PLC,Expense,270064.85,IRR,Cancelled
+TRX-00026,2024-08-23,Miller-Dalton,Purchase,483719.49,IRR,Pending
+TRX-00027,2025-06-30,"Best, Townsend and Knapp",Sales,8965.18,IRR,Paid
+TRX-00028,2025-09-03,"Gutierrez, Parks and James",Purchase,174862.93,IRR,Cancelled
+TRX-00029,2024-11-09,Wolfe and Sons,Sales,35517.95,IRR,Cancelled
+TRX-00030,2025-08-01,Zimmerman Ltd,Purchase,167348.51,IRR,Paid
+TRX-00031,2025-01-24,Edwards Group,Service,495481.74,IRR,Pending
+TRX-00032,2025-08-10,Woods Group,Service,120853.82,IRR,Cancelled
+TRX-00033,2025-01-29,Moore-Franklin,Sales,209839.0,IRR,Paid
+TRX-00034,2025-12-06,Willis-Nunez,Expense,97657.09,IRR,Cancelled
+TRX-00035,2024-09-04,Johnson-Robinson,Expense,24545.52,IRR,Pending
+TRX-00036,2026-01-31,Smith PLC,Sales,70832.06,IRR,Pending
+TRX-00037,2026-06-20,Lamb-Miller,Service,241334.36,IRR,Cancelled
+TRX-00038,2025-04-12,Gomez-White,Service,115255.96,IRR,Pending
+TRX-00039,2026-01-26,Robinson-Phillips,Purchase,238112.99,IRR,Cancelled
+TRX-00040,2026-04-30,Perry-Bryant,Service,78199.73,IRR,Cancelled
+TRX-00041,2025-09-20,Miller Group,Purchase,473046.93,IRR,Cancelled
+TRX-00042,2025-03-16,Chaney-Turner,Purchase,361468.48,IRR,Cancelled
+TRX-00043,2025-05-24,Wong PLC,Sales,361289.17,IRR,Paid
+TRX-00044,2026-05-31,Green Inc,Sales,361763.53,IRR,Cancelled
+TRX-00045,2024-08-31,"Walker, Lane and Calderon",Expense,180603.88,IRR,Pending
+TRX-00046,2025-01-15,"White, Perez and May",Expense,111620.61,IRR,Paid
+TRX-00047,2024-10-07,"Morris, Foley and Reese",Purchase,169071.58,IRR,Pending
+TRX-00048,2026-05-03,"Fuller, Martin and Patel",Service,171785.7,IRR,Paid
+TRX-00049,2024-11-12,Montgomery Group,Service,162545.56,IRR,Paid
+TRX-00050,2025-09-01,Green Ltd,Sales,178112.05,IRR,Pending
+TRX-00051,2026-02-12,"Jackson, Dodson and Olson",Service,19523.85,IRR,Pending
+TRX-00052,2026-01-30,Lewis Ltd,Sales,169581.49,IRR,Cancelled
+TRX-00053,2024-10-29,Roberts Ltd,Expense,169592.45,IRR,Pending
+TRX-00054,2026-02-04,Velazquez Ltd,Service,28988.98,IRR,Paid
+TRX-00055,2025-08-21,Estrada LLC,Expense,409469.95,IRR,Paid
+TRX-00056,2024-08-15,Taylor PLC,Sales,368474.56,IRR,Paid
+TRX-00057,2025-06-01,Nguyen-Allen,Service,164500.59,IRR,Paid
+TRX-00058,2025-04-17,Jackson and Sons,Purchase,216089.69,IRR,Paid
+TRX-00059,2025-08-25,Miller-Hernandez,Expense,196309.28,IRR,Paid
+TRX-00060,2024-10-26,"Ramirez, Bailey and Wilson",Expense,344779.65,IRR,Paid
+TRX-00061,2026-07-04,Arnold Group,Sales,478073.62,IRR,Paid
+TRX-00062,2026-05-22,"Russell, Jackson and Thompson",Sales,370708.8,IRR,Pending
+TRX-00063,2025-09-09,Patel-Garcia,Sales,406760.32,IRR,Pending
+TRX-00064,2025-05-19,Randolph Inc,Purchase,238995.45,IRR,Cancelled
+TRX-00065,2025-11-16,Nash Ltd,Expense,305093.76,IRR,Cancelled
+TRX-00066,2025-04-06,Parker LLC,Purchase,152509.51,IRR,Pending
+TRX-00067,2025-08-03,Ortega-Melton,Sales,389816.36,IRR,Cancelled
+TRX-00068,2025-03-28,"Jackson, David and Soto",Expense,203105.15,IRR,Cancelled
+TRX-00069,2024-10-15,Gomez and Sons,Purchase,306810.17,IRR,Cancelled
+TRX-00070,2026-03-09,"Hernandez, Garcia and Hall",Sales,487925.82,IRR,Cancelled
+TRX-00071,2025-02-13,"Foster, Perry and Spencer",Sales,79278.3,IRR,Pending
+TRX-00072,2024-12-09,"Gonzales, Torres and Jones",Expense,212831.85,IRR,Pending
+TRX-00073,2025-11-16,"Scott, Taylor and Campbell",Sales,242861.52,IRR,Cancelled
+TRX-00074,2025-03-03,Hickman LLC,Purchase,288567.02,IRR,Cancelled
+TRX-00075,2026-04-05,Thompson Ltd,Expense,274071.15,IRR,Cancelled
+TRX-00076,2025-05-23,Carlson Group,Purchase,28538.17,IRR,Cancelled
+TRX-00077,2025-01-12,King PLC,Sales,241566.49,IRR,Paid
+TRX-00078,2025-12-08,Ingram-Fisher,Sales,100406.63,IRR,Cancelled
+TRX-00079,2026-06-12,Arnold-Miller,Service,141549.06,IRR,Pending
+TRX-00080,2025-10-06,King PLC,Purchase,289049.76,IRR,Paid
+TRX-00081,2025-07-12,"Jackson, Becker and Brown",Purchase,488807.88,IRR,Paid
+TRX-00082,2026-03-18,Fry-Munoz,Expense,289282.87,IRR,Cancelled
+TRX-00083,2025-04-23,Vincent and Sons,Sales,289591.3,IRR,Pending
+TRX-00084,2026-01-21,Harvey Group,Service,141428.32,IRR,Cancelled
+TRX-00085,2025-11-23,"Brown, Robinson and Morris",Sales,299636.35,IRR,Paid
+TRX-00086,2025-09-26,Kramer LLC,Service,458879.28,IRR,Pending
+TRX-00087,2025-02-13,"Adams, Lopez and Chambers",Service,269547.29,IRR,Paid
+TRX-00088,2025-07-09,Walton-Rodriguez,Purchase,426508.07,IRR,Paid
+TRX-00089,2025-02-04,Edwards Ltd,Purchase,56567.81,IRR,Pending
+TRX-00090,2025-06-01,Douglas-Morgan,Purchase,105776.42,IRR,Cancelled
+TRX-00091,2026-02-11,Peterson-Kerr,Service,389386.78,IRR,Pending
+TRX-00092,2026-05-06,Fowler-Taylor,Sales,190496.87,IRR,Paid
+TRX-00093,2025-08-04,Holland-Sanchez,Purchase,282050.81,IRR,Cancelled
+TRX-00094,2025-09-07,Kane and Sons,Service,207550.82,IRR,Pending
+TRX-00095,2024-11-14,White-Torres,Expense,37820.61,IRR,Paid
+TRX-00096,2026-01-13,Brown-Clements,Expense,83690.6,IRR,Paid
+TRX-00097,2025-05-08,Kennedy-Hughes,Purchase,291573.7,IRR,Cancelled
+TRX-00098,2025-08-28,"Hunt, Young and Obrien",Sales,433419.55,IRR,Paid
+TRX-00099,2026-05-19,"Yang, Lawrence and Young",Sales,413479.82,IRR,Pending
+TRX-00100,2025-04-02,"Martin, Kelley and Phillips",Purchase,288788.33,IRR,Pending
