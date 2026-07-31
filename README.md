@@ -74,7 +74,6 @@ Preparing financial data for Machine Learning and Large Language Models:
 # 🏗️ Project Architecture
 
 ![Financial Data Tools Architecture](docs/images/architecture.png)
-
 ---
 
 # 📂 Project Structure
