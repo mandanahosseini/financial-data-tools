@@ -1,25 +1,17 @@
-"""
-Embedding interface
-"""
+from sentence_transformers import SentenceTransformer
 
 
 class FinancialEmbedding:
 
     def __init__(self):
-        pass
+
+        self.model = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )
 
 
-    def encode(
-        self,
-        texts
-    ):
+    def encode(self, texts):
 
-        """
-        Placeholder for
-        embedding models
-        """
-
-        return [
-            len(text)
-            for text in texts
-        ]
+        return self.model.encode(
+            texts
+        )

@@ -1,34 +1,52 @@
-from financial_tools.rag.chunker import (
-    split_text
-)
-
-from src.financial_tools.rag.embeddings import (
-    FinancialEmbedding
+from financial_tools.rag.retriever import (
+    FinancialRetriever
 )
 
 
-document = """
-Invoice INV-1001.
-Customer ABC Company.
-Total amount 500000 IRR.
-Payment status paid.
+documents = [
+
+"""
+Invoice INV-1001
+Customer ABC Company
+Amount 500000 IRR
+Status Paid
+""",
+
+"""
+Invoice INV-1002
+Customer XYZ Company
+Amount 900000 IRR
+Status Pending
+""",
+
+"""
+Supplier payment
+Amount 300000 IRR
+Category Purchase
+"""
+]
+
+
+retriever = FinancialRetriever()
+
+
+retriever.build(
+    documents
+)
+
+
+question = """
+Which invoice has pending payment?
 """
 
 
-chunks = split_text(
-    document,
-    5
+results = retriever.retrieve(
+    question
 )
 
 
-print(chunks)
+for r in results:
 
+    print("----------------")
 
-embedding = FinancialEmbedding()
-
-vectors = embedding.encode(
-    chunks
-)
-
-
-print(vectors)
+    print(r)
