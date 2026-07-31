@@ -1,0 +1,9 @@
+services:
+  financial-ai-api:
+    build: .
+    container_name: financial-ai-assistant
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    restart: unless-stopped

@@ -2,3 +2,13 @@ pandas
 numpy
 faker
 jupyter
+
+fastapi
+uvicorn
+pydantic
+
+pytest
+httpx
+
+faiss-cpu
+sentence-transformers

@@ -98,6 +98,35 @@ financial-data-tools/
 
 ---
 
+
+## 🚀 Deployment
+
+The project can be deployed using Docker.
+
+### Run with Docker Compose
+
+```bash
+docker compose up
+```
+
+The API will be available at:
+
+```
+http://localhost:8000
+```
+
+API documentation (Swagger UI):
+
+```
+http://localhost:8000/docs
+```
+
+### Stop the service
+
+```bash
+docker compose down
+```
+
 # 🛠️ Technologies
 
 ## Programming
