@@ -8,6 +8,8 @@ The project focuses on building reusable components for financial systems, ERP e
 
 ---
 
+[![Python Tests](https://github.com/mandanahosseini/financial-data-tools/actions/workflows/tests.yml/badge.svg)](https://github.com/mandanahosseini/financial-data-tools/actions)
+
 ## 🎯 Project Vision
 
 Modern organizations generate large volumes of financial data through ERP systems, accounting software, invoices, and business transactions.
