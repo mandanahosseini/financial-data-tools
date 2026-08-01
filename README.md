@@ -1,4 +1,7 @@
-# Financial Data Tools 📊
+# Financial Data Tools 📊     
+[![Python Tests](https://github.com/mandanahosseini/financial-data-tools/actions/workflows/tests.yml/badge.svg)](https://github.com/mandanahosseini/financial-data-tools/actions)
+
+
 
 ## Python Toolkit for Financial Data Processing, Automation & AI-Ready Enterprise Workflows
 
@@ -7,9 +10,6 @@ Financial Data Tools is an open-source Python toolkit designed to simplify finan
 The project focuses on building reusable components for financial systems, ERP environments, and AI-powered business solutions.
 
 ---
-
-[![Python Tests](https://github.com/mandanahosseini/financial-data-tools/actions/workflows/tests.yml/badge.svg)](https://github.com/mandanahosseini/financial-data-tools/actions)
-
 ## 🎯 Project Vision
 
 Modern organizations generate large volumes of financial data through ERP systems, accounting software, invoices, and business transactions.
