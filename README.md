@@ -27,47 +27,76 @@ The long-term goal is to bridge the gap between:
 
 ---
 
-# 🚀 Features
+# 🚀 Key Features
 
-## 📁 Financial Data Utilities
+## 💰 Synthetic Financial Data Generation
 
-Tools for working with structured financial data:
+Generate realistic synthetic financial datasets for analytics, testing, and AI development:
 
-- Transaction processing
-- Data validation
-- Financial record management
-- Data transformation pipelines
-
-
-## 🧾 Invoice & Document Processing
-
-Planned components for:
-
-- Invoice data extraction
-- Invoice validation
-- Financial document processing
-- AI-powered document understanding
+- Synthetic transaction generation
+- Financial record simulation
+- AI-ready dataset creation
+- Privacy-preserving data generation
 
 
-## 🏢 ERP Data Preparation
+## 🧾 Invoice Intelligence
 
-Utilities for preparing enterprise data:
+A foundation for intelligent financial document processing:
 
-- Financial transactions
-- Customer and supplier data
-- Business records
-- Reporting datasets
+- Invoice data modeling and validation
+- Financial document structure extraction
+- Invoice processing pipelines
+- Preparation for AI-powered document understanding
 
 
-## 🤖 AI-Ready Financial Data
+## 🏢 Enterprise ERP Data Preparation
 
-Preparing financial data for Machine Learning and Large Language Models:
+Tools designed around enterprise financial workflows:
 
-- Dataset generation
-- Feature engineering
-- Embedding preparation
-- Knowledge base creation for RAG systems
+- Financial transaction processing
+- Customer and supplier data preparation
+- Business record management
+- Reporting dataset generation
 
+
+## 🧠 Financial NLP Pipeline
+
+Natural Language Processing capabilities for financial documents:
+
+- Text cleaning and normalization
+- Financial entity extraction
+- Document understanding foundation
+- Transformer-ready text processing
+
+
+## 🔍 Semantic Search & RAG Foundation
+
+Building retrieval-based AI systems for financial knowledge:
+
+- Text chunking pipeline
+- Embedding generation
+- Vector-based semantic search
+- Retrieval-Augmented Generation (RAG) architecture
+
+
+## 🤖 Financial AI Assistant
+
+A foundation for LLM-powered financial assistants:
+
+- Context-aware question answering
+- Grounded responses using financial documents
+- LLM integration architecture
+- Enterprise AI assistant workflow
+
+
+## 🌐 API & Deployment
+
+Production-oriented deployment capabilities:
+
+- FastAPI REST API
+- Interactive API documentation with Swagger
+- Docker containerization
+- Reproducible deployment environment
 
 ---
 
