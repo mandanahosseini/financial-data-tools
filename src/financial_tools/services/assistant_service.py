@@ -6,10 +6,9 @@ from financial_tools.assistant.financial_assistant import (
     FinancialAssistant
 )
 
-from financial_tools.assistant.mock_llm import (
-    MockLLM
-)
+from financial_tools.llm.openai_llm import OpenAILLM
 
+import os
 
 class AssistantService:
 
@@ -41,11 +40,15 @@ class AssistantService:
         )
 
 
-        self.assistant = FinancialAssistant(
-            self.retriever,
-            MockLLM()
+        llm = OpenAILLM(
+            os.getenv("OPENAI_API_KEY")
         )
 
+
+        self.assistant = FinancialAssistant(
+             self.retriever,
+             llm
+        )
 
     def ask(self, question):
 
