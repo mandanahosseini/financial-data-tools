@@ -17,3 +17,5 @@ requests
 
 openai
 python-dotenv
+
+ollama

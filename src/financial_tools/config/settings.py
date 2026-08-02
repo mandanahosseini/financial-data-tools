@@ -1,0 +1,7 @@
+DEFAULT_LLM = "ollama"
+
+DEFAULT_MODEL = "llama3"
+
+TEMPERATURE = 0.0
+
+MAX_TOKENS = 512

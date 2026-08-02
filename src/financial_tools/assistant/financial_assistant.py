@@ -32,5 +32,6 @@ class FinancialAssistant:
             prompt
         )
 
-
+        print(response)
+        
         return response
